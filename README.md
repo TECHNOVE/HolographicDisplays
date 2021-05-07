@@ -1,4 +1,4 @@
-Holographic Displays
+Holographic Displays (now with PAPI support!)
 ===================
 
 Bukkit Dev Page: http://dev.bukkit.org/bukkit-plugins/holographic-displays
@@ -6,6 +6,11 @@ Bukkit Dev Page: http://dev.bukkit.org/bukkit-plugins/holographic-displays
 API tutorial: https://github.com/filoghost/HolographicDisplays/wiki
 
 Development Builds: https://ci.codemc.io/job/filoghost/job/HolographicDisplays
+
+## PlaceholderAPI Support
+
+To use PlaceholderAPI, it is required to be using ProtocolLib as well.
+Once you have both PlaceholderAPI & ProtocolLib, PAPI placeholders will work out of the box!
 
 ## Maven
 ```xml
